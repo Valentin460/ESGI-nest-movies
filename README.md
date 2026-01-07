@@ -11,7 +11,7 @@ npm install
 
 ```bash
 # Mode développement
-npm run start:dev
+npm run start
 ```
 
 L'application démarre sur `http://localhost:3000`
